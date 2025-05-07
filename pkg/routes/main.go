@@ -10,7 +10,7 @@ func SetupRoutes() *http.ServeMux {
 	mux := http.NewServeMux()
 
 	mux.HandleFunc("GET /{encoded_url}", handlers.Redirect)
-	mux.HandleFunc("POST /", handlers.NewUrl)
+	mux.HandleFunc("POST /new", handlers.NewUrl)
 
 	return mux
 

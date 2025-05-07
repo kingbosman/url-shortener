@@ -1,2 +1,4 @@
 github.com/alextanhongpin/base62 v0.0.0-20181112043535-204cf116eaa9 h1:pzEZ91ZEwxRxzXxaQQz2CQpjjQaqQVtPN1qn+N6SyjY=
 github.com/alextanhongpin/base62 v0.0.0-20181112043535-204cf116eaa9/go.mod h1:HAkSP6SOWM5D64M8tTKZHcsBsLirOIgk4kGdbb/O9Jw=
+github.com/mattn/go-sqlite3 v1.14.28 h1:ThEiQrnbtumT+QMknw63Befp/ce/nUPgBPMlRFEum7A=
+github.com/mattn/go-sqlite3 v1.14.28/go.mod h1:Uh1q+B4BYcTPb+yiD3kU8Ct7aC0hY9fxUwlHK0RXw+Y=
